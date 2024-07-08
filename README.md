@@ -26,9 +26,9 @@ In recent years, my personal goal has been to learn the latest technologies in t
 
 ### Badges
 
-<b>My Roadmap status</b>
+<b style="margin-bottom: 10px;">My Roadmap status</b>
 <br />
-[[![roadmap.sh](https://roadmap.sh/frontend?s=668c3e302c7edd3e4483563e)]
+[![roadmap.sh](https://roadmap.sh/card/wide/668c3e302c7edd3e4483563e?variant=dark)](https://roadmap.sh)
 
 <b>My GitHub Stats</b>
 
