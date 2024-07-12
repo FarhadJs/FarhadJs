@@ -28,7 +28,7 @@ In recent years, my personal goal has been to learn the latest technologies in t
 
 <b>My Roadmap status</b>
 <br />
-[![roadmap.sh](https://roadmap.sh/card/wide/668c3e302c7edd3e4483563e?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/668c3e302c7edd3e4483563e?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
 
 <b>My GitHub Stats</b>
 
