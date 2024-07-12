@@ -8,7 +8,7 @@ In recent years, my personal goal has been to learn the latest technologies in t
 
 * 🌍  I'm based in IRAN, Yazd
 * ✉️  You can contact me at [farhadfallahi2004@outlook.com](mailto:farhadfallahi2004@outlook.com)
-* 🚀  I'm currently working on [Danexo](http://danexo.ir/fa)
+* 🚀  I'm currently working on ...
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on It would be great to work on some interesting projects, preferably short ones.
 
