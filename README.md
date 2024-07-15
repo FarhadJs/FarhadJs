@@ -48,10 +48,11 @@ In recent years, my personal goal has been to learn the latest technologies in t
 
 ### Badges
 
+<!--
 <b>My Roadmap status</b>
 <br />
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/668c3e302c7edd3e4483563e?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
-
+-->
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/FarhadJs"><img src="https://github-readme-stats.vercel.app/api?username=FarhadJs&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&show_icons=true" alt="FarhadJs's GitHub stats" /></a>
