@@ -7,7 +7,7 @@ Front-end Developer
 In recent years, my personal goal has been to learn the latest technologies in the field of website design. However, the reason I am drawn to this path is simply because it is a hobby and a personal interest of mine. Moving forward, I have decided to specialize in the tools that I enjoy working with.
 
 * 🌍  I'm based in IRAN, Yazd
-* ✉️  You can contact me at [farhadfallahi2004@outlook.com](mailto:farhadfallahi2004@outlook.com)
+* ✉️  You can contact me at [farhadfallahi2004@gmail.com](mailto:farhadfallahi2004@gmail.com)
 * 🚀  I'm currently working on ...
 * 🧠  I'm learning Next.js
 * 🤝  I'm open to collaborating on It would be great to work on some interesting projects, preferably short ones.
