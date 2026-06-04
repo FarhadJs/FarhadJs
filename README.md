@@ -1,41 +1,56 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Farhad Fallahi
-======================================================================================================================================
+# 👋 Hi, I'm Farhad Fallahi
 
-Front-end Developer
--------------------
+### 👨‍💻 Full-Stack Developer   Frontend Specialist | Open-Source Enthusiast
 
-In recent years, my personal goal has been to learn the latest technologies in the field of website design. However, the reason I am drawn to this path is simply because it is a hobby and a personal interest of mine. Moving forward, I have decided to specialize in the tools that I enjoy working with.
+I'm a **Computer Engineering student** at Imam Javad University with a passion for **building scalable web and desktop applications**. My journey in programming started with **C# and Windows Forms**, and over the years, I've expanded my expertise to **React.js, Vue.js, Node.js, Express.js, and Electron**. I love turning complex problems into clean, efficient, and user-friendly solutions.
 
-* 🌍  I'm based in IRAN, Yazd
-* ✉️  You can contact me at [farhadfallahi2004@gmail.com](mailto:farhadfallahi2004@gmail.com)
-* 🚀  I'm currently working on ...
-* 🧠  I'm learning Next.js
-* 🤝  I'm open to collaborating on It would be great to work on some interesting projects, preferably short ones.
+---
 
-### Skills
+## 🛠️ **Technologies & Tools**
+
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+### **Desktop Development**
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+---
+
+## 🌍 **What I'm Working On**
+- **Frontend Development:** Building responsive and dynamic web applications with **React.js and Vue.js**.
+- **Backend Development:** Developing RESTful APIs and microservices using **Node.js and Express.js**.
+- **Desktop Applications:** Creating cross-platform apps with **Electron and C#**.
+- **Open Source:** Contributing to projects and learning from the community.
+
+---
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+## 🤝 **Let's Connect**
+- **LinkedIn:** [farhad-fallahi](https://www.linkedin.com/in/farhad-fallahi/)
+- **Email:** [farhadfallahi2004@gmail.com](mailto:farhadfallahi2004@gmail.com)
+- **Location:** Yazd, Iran
 
+---
+**⭐ Fun Fact:** I love teaching and sharing knowledge. I've conducted workshops on **web development, Rust, and networking**!
 
-### Socials
-
-<p align="left"> 
-  <a href="https://www.linkedin.com/in/farhad-fallahi" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-    </picture>
-  </a> 
-</p>
-
-### Badges
-
-<!--
-<b>My Roadmap status</b>
-<br />
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/668c3e302c7edd3e4483563e?variant=dark&roadmaps=frontend" alt="roadmap.sh"/></a>
--->
+---
+💬 **Open to collaborations!** Feel free to reach out if you're working on something interesting.
